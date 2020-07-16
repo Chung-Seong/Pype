@@ -10,10 +10,14 @@
 * 이충성 Chungsung Lee
 
 # Tools
-* TD_Geometry
-* TD_File
-* TD_Globals
-* TD_VolumeSharp
+* HDA/ROP/TD_Geometry
+* HDA/SOP/TD_File
+* HDA/OBJ/TD_Globals
+* HDA/DOP/TD_VolumeSharp
+* HDA/SOP/TD_Wrangler | Coming soon
+* Console Tools/ Job Creator | Coming soon
+* Console Tools/ Scene Creator | Coming soon
+* Console Tools/ Exr(render image) Error Checker | Coming soon
 
 # Installation
 * 후디니18 미만 버젼은 메뉴얼로 $HOUDINI_USER_PREF에 필요한 파일들과 디렉토리를 복사해 주세요.
@@ -26,7 +30,3 @@
 * CPU with SSE2 instruction set support
 * Graphics card with OpenGL 2.0 support
 * 120 MB free storage space
-
-![TD Geometry](http://www.houdini.co.kr/images/easyblog_articles/1076/b2ap3_large_Credits1.png)
-![TD Globals](http://www.houdini.co.kr/images/easyblog_articles/1076/b2ap3_large_Credits2.png)
-![TD File](http://www.houdini.co.kr/images/easyblog_articles/1076/b2ap3_large_Credits3.png)
