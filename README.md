@@ -29,4 +29,4 @@
 * Windows/Linux x86
 * CPU with SSE2 instruction set support
 * Graphics card with OpenGL 2.0 support
-* 120 MB free storage space
+* 10 MB free storage space
