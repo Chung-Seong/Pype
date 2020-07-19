@@ -3,7 +3,7 @@
 
 # Contributing
 * 남지현 Jihyun Nam: Rhythm & Hues
-* 정현준 Hyunjun Jung: Luma Pictures
+* 정현준 Hyunjun Jung
 * 김민수 Minsu Kim
 * 김준영 Junyoung Kim
 * 양준호 Junho Yang: Digital Idea
