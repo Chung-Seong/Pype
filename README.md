@@ -27,6 +27,3 @@
 * Over Houdini16.5 for manual installation
 * Over Houdini18.0 for package installation
 * Windows/Linux x86
-* CPU with SSE2 instruction set support
-* Graphics card with OpenGL 2.0 support
-* 10 MB free storage space
