@@ -22,4 +22,4 @@
 # System requirements:
 * Over Houdini16.5 for manual installation
 * Over Houdini18.0 for package installation
-* Windows/Linux x86
+* Windows/Linux x86 | 모든 툴은 윈도우즈/리눅스에서 동시에 작동하도록 하는게 목표입니다.
