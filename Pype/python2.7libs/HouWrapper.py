@@ -19,6 +19,7 @@ class setDB():
     
     def __init__(self):
         if platform.system() == "Windows":
+            #TODO: SESI환경변수가 없으면 0으로 리턴이 되니, 예외처리를 해주든가, 경고메세지를 띄우는게 좋을거야
             self.sesi_path = os.getenv("SESI")
             self.htoa_path = os.getenv("HTOA")
 
