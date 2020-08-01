@@ -6,6 +6,7 @@ http://www.houdini.co.kr 후디니 테크니컬 디렉터 코스를 진행하면
 * HDA/SOP/TD_File
 * HDA/OBJ/TD_Globals
 * HDA/DOP/TD_VolumeSharp
+* HDA/SOP/TD_BlendGeo | Coming soon
 * HDA/SOP/TD_Wrangler | Coming soon
 * Console Tools/ Job Creator | Coming soon
 * Console Tools/ Scene Creator | Coming soon
