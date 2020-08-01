@@ -13,6 +13,7 @@ http://www.houdini.co.kr 후디니 테크니컬 디렉터 코스를 진행하면
 
 # Rigs
 * HDA/OBJ/TD_VehicleRig | Coming soon
+* HDA/OBJ/TD_WhaleRigging | Coming soon
 
 # Installation
 * 후디니18 미만 버젼은 메뉴얼로 $HOUDINI_USER_PREF_DIR에 필요한 파일들과 디렉토리를 복사해 주세요.
