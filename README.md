@@ -1,6 +1,3 @@
-# Pype
-http://www.houdini.co.kr 후디니 테크니컬 디렉터 코스를 진행하면서 제작했던 프로그램을 공유합니다.  
-
 # Tools
 * HDA/ROP/TD_Geometry
 * HDA/SOP/TD_File
